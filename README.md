@@ -36,6 +36,7 @@ My first i3wm nord themed rice :D
 - [Ranger](<https://github.com/Shivshreyas/i3wm-my-nord-rice/tree/main/i3-nord(%20withi3bar)/ranger>) (Filemanager)
 
 - [Firefox](<https://github.com/Shivshreyas/i3wm-my-nord-rice/tree/main/i3-nord(%20withi3bar)/firefox/chrome>) (nightab+c.css)
+- [Telegram](https://github.com/gilbertw1/telegram-nord-theme) (nord themed TG)
 - [NordTheme](https://www.nordtheme.com/) (Colorscheme)
 
 <br>
