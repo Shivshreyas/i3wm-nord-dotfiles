@@ -43,4 +43,5 @@ My first i3wm nord themed rice :D
 ## Wallpapers
 
 - [Homescreen](<https://raw.githubusercontent.com/Shivshreyas/i3wm-my-nord-rice/main/i3-nord(%20withi3bar)/walls/85.png>)
+
 - [Stolen-Collection](<https://github.com/Shivshreyas/i3wm-my-nord-rice/tree/main/i3-nord(%20withi3bar)/walls>)
