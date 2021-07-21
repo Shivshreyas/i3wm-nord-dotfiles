@@ -1,7 +1,10 @@
 # **i3wm-Nord**
 
-My first i3wm nord themed rice :D
+**_My first i3wm nord themed rice :D_**
 <br>
+<br>
+
+![screenshot](https://raw.githubusercontent.com/Shivshreyas/i3wm-nord-dotfiles/main/Screenshots/nord%20cover.png)
 <br>
 
 ![screenshot](<https://raw.githubusercontent.com/Shivshreyas/i3wm-my-nord-rice/main/Screenshots/final%20rice(nord)3.png>)
